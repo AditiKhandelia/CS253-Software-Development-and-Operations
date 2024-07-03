@@ -1,0 +1,6 @@
+Customer_ID ,Password ,First_Name ,Last_Name ,Age ,Gender ,Personal_Email ,Phone_No ,DL_No ,Total_Rented ,Total_Overdue ,Dents_Caused ,Scratches_Caused ,Damage_Cost ,Cars_Rented ,Discount ,Eligibility 
+CUS1 ,trtry ,Vidhi ,Jain ,46 ,Female ,vidhij@gmail.com ,9008312707 ,RJ7809673246613 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,5
+CUS2 ,trtrj ,Aanchal ,Sharma ,25 ,Female ,aanchal@gmail.com ,9844312707 ,MH7867671244673 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,5
+CUS3 ,trtrl ,Akshat ,Shankar ,30 ,Male ,shankara@gmail.com ,7488656278 ,BR6457328144611 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,5
+CUS4 ,trtrn ,Aryan ,Verma ,50 ,Male ,aryanv@gmail.com ,7894315713 ,UP5412671254675 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,5
+CUS5 ,trtrp ,Manish ,Choubey ,29 ,Male ,mchoubey@gmail.com ,9090315703 ,BR1311371542355 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,5

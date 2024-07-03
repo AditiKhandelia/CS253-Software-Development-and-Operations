@@ -1,0 +1,6 @@
+Employee_ID ,Password ,First_Name ,Last_Name ,Age ,Gender ,Official_Email ,Personal_Email ,Phone_No ,DL_No ,Total_Rented ,Total_Overdue ,Dents_Caused ,Scratches_Caused ,Damage_Cost ,Cars_Rented ,Employee_Score ,Discount ,Eligibility 
+EMP1 ,gyhuj ,Divyanshi ,Sharma ,35 ,Female ,divyanshis@rentnow.com ,divi@gmail.com ,9769898382 ,JH6538424889564 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,15 ,5
+EMP2 ,gyhuk ,Manas ,Jain ,45 ,Female ,manasj@rentnow.com ,jmanas@gmail.com ,9811548532 ,HY667939029183 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,15 ,5
+EMP3 ,gyhul ,Akshat ,Raj ,30 ,Male ,akshatrj@rentnow.com ,akshatraj45@gmail.com ,9006270941 ,PB1134878119610 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,15 ,5
+EMP4 ,gyhum ,Aarohi ,Khandelia ,25 ,Male ,aarohikh@rentnow.com ,aarohikhandelia@gmail.com ,9462213652 ,BR7413016266858 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,15 ,5
+EMP5 ,gyhun ,Vaneesh ,Choudhuri ,45 ,Male ,vanneshc@rentnow.com ,vaneeshc@gmail.com ,9066126433 ,DL0330190984638 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,15 ,5
